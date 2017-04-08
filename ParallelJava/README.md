@@ -1,6 +1,7 @@
 This is the demonstration of running WaterJug Problem in parallel version using ParallelJava2. This is cluster level parallelism.
 
-The documentation of parallel java can be found [here] (https://www.cs.rit.edu/~ark/pj2.shtml).
+The documentation of parallel java can be found here:
+https://www.cs.rit.edu/~ark/pj2.shtml
 
 To compile and run:
 
